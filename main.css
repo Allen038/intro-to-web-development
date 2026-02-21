@@ -47,3 +47,7 @@ font-size: 20px;
 color: black;
 margin-bottom: 12px;
 }
+
+.name {
+  background-color: blue;
+}
